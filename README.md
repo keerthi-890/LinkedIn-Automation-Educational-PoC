@@ -62,7 +62,7 @@ Dashboard
 - Stealth toggle switches
 - Daily limit tracker
 
-
+DEMO VIDEO LINK: https://drive.google.com/file/d/1nAt6YQiiOJMCL7f00QjaB1250UA1rrm_/view?usp=sharing
 
 ## Project Structure
 
